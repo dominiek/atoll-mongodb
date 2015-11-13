@@ -1,0 +1,5 @@
+targets:
+  ubuntu-14.04:
+  centos-6:
+    runner: sysv-lsb-3.1
+cli: false
